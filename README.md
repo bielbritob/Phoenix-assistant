@@ -88,7 +88,7 @@ The **discord.py** library is used to send messages to specific Discord channels
 Here’s an example of how **Phoenix-assistant** works in action:
 
 1. **Image Recognition**: 
-   - You train the model with Teachable Machine, then put in the `Phoenix` folder and change the logic of the `def verify_webcam()`
+   - You train the model with Teachable Machine, (`keras_model.h5` and `labels`) then put in the `Phoenix` folder and change the logic of the `def verify_webcam()`
       > **Note:** You can skip this step if you don’t want to do this...
 
 2. **Voice Command**:
