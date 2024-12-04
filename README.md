@@ -1,5 +1,6 @@
 # * Phoenix-assistant
-An personal creation that uses machine learning and some algorithms to assist the "send task" of the classrom. And a beaultiful interface made 90% by me
+An personal creation that uses machine learning and some algorithms to assist the "send task" of the classrom. And a beaultiful interface made 90% by me 
+(It's a school fair project)
 
 
 # * Working build Download link:
