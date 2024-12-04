@@ -101,7 +101,7 @@ Here’s an example of how **Phoenix-assistant** works in action:
 ---
 
 Made with ❤️ by **bielbritob**
-Check out new project on GitHub: [Phoenix-assistant GitHub](https://github.com/bielbritob)
+Check out new projects on GitHub: [Phoenix-assistant GitHub](https://github.com/bielbritob)
 
 ---
 
