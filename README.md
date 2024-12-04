@@ -23,7 +23,6 @@ Here’s a preview of how the interface looks while running:
     <img src="https://github.com/bielbritob/Phoenix-assistant/blob/b13c5180d6f3ad240ac98da678513f595e0934a2/phoenixgif.gif" width="70%" alt="Phoenix Assistant Interface" />
 </p>
 
-The GIF will automatically start playing when the page loads, showcasing the live interface in action.
 
 ---
 
