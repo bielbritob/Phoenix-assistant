@@ -78,7 +78,7 @@ The **discord.py** library is used to send messages to specific Discord channels
 - **Teachable Machine**: For training the image recognition model.
 - **SpeechRecognition**: For converting speech to text.
 - **discord.py**: To interact with the Discord API and send messages to specific channels.
-- **Pygame**: For creating the graphical user interface (if applicable).
+- **Pygame**: For creating the graphical user interface.
 - **NumPy** and **TensorFlow**: For handling the machine learning models (if you are using them for image recognition or other tasks).
 
 ---
