@@ -107,4 +107,3 @@ Check out new projects on GitHub: [Phoenix-assistant GitHub](https://github.com/
 
 ### Additional Notes:
 - **Troubleshooting**: If you encounter any issues with setting up the application, check the Issues tab for common problems and solutions.
-- **Future Improvements**: I plan to add more features in the future, such as more sophisticated task management, additional integrations, and voice interaction improvements. Stay tuned for updates!
